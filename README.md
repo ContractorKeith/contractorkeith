@@ -14,6 +14,7 @@ Now I'm applying that same problem-solving mindset to code. Not chasing a develo
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-AI%20Assisted-D97706?style=flat)
 [![](https://img.shields.io/badge/code%20style-mine-999)](https://github.com/sebmestrallet/absurd-badges)
+[![](https://img.shields.io/badge/coffee%20drunk-YES-6F4E37)](https://github.com/sebmestrallet/absurd-badges)
 
 ## The Approach
 
@@ -21,16 +22,15 @@ I build like I'm still in construction: figure out the end goal, find the path, 
 
 Claude Code has become my internal team, I bring the plans and the problem, it helps me execute.
 
-Learning by doing it.
-Ship ugly drafts.
-Breaking sh*t.
-Iterating.
+ - Learning by doing
+ - Shipping ugly
+ - Break sh*t
+ - Iterate
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/keithbloemendaal)
-[![](https://img.shields.io/badge/X-000?style=flat&logo=x&logoColor=white)](https://x.com/contractorkeith)
-[![](https://img.shields.io/badge/coffee%20drunk-694%20L-6F4E37)](https://github.com/sebmestrallet/absurd-badges)
+[![](https://img.shields.io/badge/-000?style=flat&logo=x&logoColor=white)](https://x.com/contractorkeith)
 
 ---
 
