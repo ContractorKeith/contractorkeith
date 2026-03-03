@@ -29,7 +29,6 @@ Claude Code has become my internal team, I bring the plans and the problem, it h
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/keithbloemendaal)
 [![](https://img.shields.io/badge/-000?style=flat&logo=x&logoColor=white)](https://x.com/contractorkeith)
 
 ---
