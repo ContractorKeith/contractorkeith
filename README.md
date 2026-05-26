@@ -1,6 +1,6 @@
 # Hey, I'm ContractorKeith
 
-**37 years in construction. Currently building tools.**
+**37 years in construction. Currently building apps and tools with code.**
 
 I spent over three decades in construction, owned a home building company, built hundreds of buildings and developments, served on planning boards, ran crews, managed projects, and learned that half the job is managing data.
 
@@ -20,7 +20,9 @@ Now I'm applying that same problem-solving mindset to code. Not chasing a develo
 
 I build like I'm still in construction: figure out the end goal, find the path, get it done. 
 
-Claude Code has become my internal team, I bring the plans and the problem, it helps me execute.
+Claude Code, Codex, and Grok Build have become my internal team, I bring the plans and the problem, it helps me execute.
+
+I am also leaning towards local AI more and more. I believe the future is owning your compute, owning your model, and owning your data. 
 
  - Learning by doing
  - Shipping ugly
