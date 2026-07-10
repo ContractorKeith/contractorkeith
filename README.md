@@ -12,7 +12,6 @@ Now I'm applying that same problem-solving mindset to code. Not chasing a develo
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-AI%20Assisted-D97706?style=flat)
 [![](https://img.shields.io/badge/code%20style-mine-999)](https://github.com/sebmestrallet/absurd-badges)
 [![](https://img.shields.io/badge/coffee%20drunk-YES-6F4E37)](https://github.com/sebmestrallet/absurd-badges)
 
