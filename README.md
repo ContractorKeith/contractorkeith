@@ -17,11 +17,11 @@
 
 **Electrician → plumber → GC → home builder → planning board → commercial fence estimator → `git push`**
 
-I spent 37 years building things you can stand on — hundreds of buildings and developments, my own home building company, crews, planning boards, the works. Half of construction is managing information under deadline pressure. Turns out that's half of software too.
+I spent 37 years building things you can stand on including hundreds of buildings and developments, my own plumbing company, my own fence company, and my own home building company, managed crews, transacted hundreds of real estate deals, chaired planning boards, the works. Half of construction is managing information under deadline pressure. Turns out that's half of software too.
 
-Now I build the tools I always wished existed on the construction side of the table — plus a growing pile of agent tooling, MCP servers, and terminal apps along the way. **37 years in construction. 0 CS degrees. 30 public repos and counting.**
+Now I am building the tools I always wished existed on the construction side of the table, plus a growing pile of agent tooling, MCP servers, and terminal apps along the way. **37 years in construction. 0 CS degrees. 30 public repos and counting.**
 
-## 🏗️ The big build — Contractor Takeoff
+## The big build — Contractor Takeoff
 
 **[contractortakeoff.ai](https://contractortakeoff.ai)** → *Run every bid from one command center.*
 
@@ -29,9 +29,9 @@ An AI-native bid management suite for specialty subcontractors: bid workspaces, 
 
 |  |  |
 |---|---|
-| 🏗️ **Platform** | [contractortakeoff.ai](https://contractortakeoff.ai) — closed pilot now, public launch coming |
-| 📖 **Docs** | [docs.contractortakeoff.ai](https://docs.contractortakeoff.ai) |
-| 🔩 **Open-source engine** | [contractor-bid](https://github.com/ContractorKeith/contractor-bid) — free, MIT-licensed, yours today |
+| **Platform** | [contractortakeoff.ai](https://contractortakeoff.ai) — closed pilot now, public launch coming |
+| **Docs** | [docs.contractortakeoff.ai](https://docs.contractortakeoff.ai) |
+| **Open-source engine** | [contractor-bid](https://github.com/ContractorKeith/contractor-bid) — free, MIT-licensed, yours today |
 
 ```bash
 pipx install "contractor-bid[mcp]"                 # or
