@@ -6,7 +6,7 @@
 │                                                              │
 ├──────────────────────────────────────────────────────────────┤
 │  PROJECT NO: 1989-∞      SCALE: NTS              REV: DAILY  │
-│  DRAWN BY: CONTRACTORKEITH                       SHEET: 1/∞  │
+│  DRAWN BY: KEITH         CHECKED BY: THE FIELD   SHEET: 1/∞  │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -17,9 +17,9 @@
 
 **Electrician → plumber → GC → home builder → planning board → commercial fence estimator → `git push`**
 
-I spent 37 years building things you can stand on including hundreds of buildings and developments, my own plumbing company, my own fence company, and my own home building company, managed crews, transacted hundreds of real estate deals, chaired planning boards, the works. Half of construction is managing information under deadline pressure. Turns out that's half of software too.
+I spent 37 years building things you can stand on — hundreds of buildings and developments, , general contractor, plumbing company, fence company, electrician, my own home building company, crews, chaired planning boards, the works. Half of construction is managing information, software isn't much different.
 
-Now I am building the tools I always wished existed on the construction side of the table, plus a growing pile of agent tooling, MCP servers, and terminal apps along the way. **37 years in construction. 0 CS degrees. 30 public repos and counting.**
+Now I am building the tools I always wished existed on the construction side of the table — plus a growing pile of agent tooling, MCP servers, and terminal apps along the way. **37 years in construction. 0 CS degrees. 31 public repos and counting.**
 
 ## The big build — Contractor Takeoff
 
@@ -62,6 +62,7 @@ Things you can clone, run, and contribute to today. Issues and PRs welcome from 
 
 | SHEET | PROJECT | SPEC | SCOPE OF WORK |
 |-------|---------|------|---------------|
+| `A-100` | [conmcp](https://github.com/ContractorKeith/conmcp) | Python | **New.** An MCP server that reads commercial plan sets like an estimator — finds the right sheets, renders drawings for vision models, pulls schedules and quantity callouts, and outputs takeoff-ready reports. Any MCP client, cloud or fully local models |
 | `A-101` | [contractor-bid](https://github.com/ContractorKeith/contractor-bid) | Python | The open-source engine under Contractor Takeoff. AI-ready bid workspaces for commercial subs — structure an agent can work in without losing the audit trail |
 | `A-201` | [claude-architect-course](https://github.com/ContractorKeith/claude-architect-course) | Shell | Interactive course for the Claude Certified Architect exam, delivered *inside* Claude Code. Clone it, open it, say `/start` |
 | `S-101` | [mcp-macos-toolkit](https://github.com/ContractorKeith/mcp-macos-toolkit) | TypeScript | Safety-first, local-first macOS MCP tools — files, Shortcuts, Homebrew, Calendar, Reminders, Ollama, MLX |
@@ -98,3 +99,47 @@ I build like I'm still on the jobsite: figure out the end goal, find the path, g
 ![Ollama](https://img.shields.io/badge/Ollama-000?style=flat&logo=ollama)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat&logo=homebrew&logoColor=black)
+[![](https://img.shields.io/badge/code%20style-mine-999)](https://github.com/sebmestrallet/absurd-badges)
+[![](https://img.shields.io/badge/coffee%20drunk-YES-6F4E37)](https://github.com/sebmestrallet/absurd-badges)
+
+```
+DAILY MEANS & METHODS
+[x] read the plans           [x] learn by doing
+[x] ship ugly                [x] break sh*t
+[x] iterate                  [x] verify in the field
+[ ] wait for permission
+```
+
+And I'm betting big on local AI: the future is owning your compute, your model, and your data. More of my stack goes local every month.
+
+## Open for work
+
+```
+   ┌───────────────────────────────────┐
+   │                                   │
+   │           OPEN FOR WORK           │
+   │        contract · full-time       │
+   │                                   │
+   │    construction tech · AI tools   │
+   │     agents · apps · estimating    │
+   │                                   │
+   └────────┬────────────────┬─────────┘
+            │                │
+            │                │
+════════════╧════════════════╧═════════════
+```
+
+Open to **contract or full-time** work — construction tech, AI tooling and agents, internal apps, estimating systems, or something we haven't named yet. The combination I bring is rare: 37 years of construction domain depth *and* I ship working software. **DMs open: [@contractorkeith](https://x.com/contractorkeith)**
+
+## Submit an RFI
+
+*(RFI — "Request for Information." Construction for: just ask.)*
+
+- 𝕏 **[@contractorkeith](https://x.com/contractorkeith)** — daily build log, DMs open
+- 🌐 **[contractorkeith.com](https://contractorkeith.com)** — what I build, what breaks, and what I learn fixing it
+- ▶️ **[youtube.com/@contractorkeith](https://youtube.com/@contractorkeith)** — mobilization phase: first videos coming soon
+- 🏗️ **[contractortakeoff.ai](https://contractortakeoff.ai)** — the big build
+
+---
+
+*Central Florida. Still in construction — I just pour more code than concrete these days. Still think it's the best industry on earth.*
