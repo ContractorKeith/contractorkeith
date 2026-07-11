@@ -6,7 +6,7 @@
 │                                                              │
 ├──────────────────────────────────────────────────────────────┤
 │  PROJECT NO: 1989-∞      SCALE: NTS              REV: DAILY  │
-│  DRAWN BY: KEITH + AI    CHECKED BY: THE FIELD   SHEET: 1/∞  │
+│  DRAWN BY: CONTRACTORKEITH                       SHEET: 1/∞  │
 └──────────────────────────────────────────────────────────────┘
 ```
 
