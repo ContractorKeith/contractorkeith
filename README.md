@@ -14,6 +14,7 @@
 [![Website](https://img.shields.io/badge/contractorkeith.com-2ea44f?style=flat&logo=rss&logoColor=white)](https://contractorkeith.com)
 [![YouTube](https://img.shields.io/badge/YouTube-videos_soon-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@contractorkeith)
 [![Contractor Takeoff](https://img.shields.io/badge/contractortakeoff.ai-1f6feb?style=flat)](https://contractortakeoff.ai)
+[![ködade](https://img.shields.io/badge/k%C3%B6dade.com-F2A43B?style=flat)](https://kodade.com)
 
 **Electrician → plumber → GC → home builder → planning board → commercial fence estimator → `git push`**
 
@@ -55,6 +56,21 @@ This is a decade-scale build with 37 years of estimating behind it. If you're wo
 =||==||==||==||==||==||==||==||==||==||==||==||==||==||==||=
 ```
 *Division 32 — Exterior Improvements. I estimate these for a living.*
+
+## The other big build — ködade
+
+**[kodade.com](https://kodade.com)** → *Two döts. One window.*
+
+ködade is a desktop Agentic Development Environment for everyone from first-time vibe coders to experienced engineers. It brings Claude Code, Codex, Grok, OpenCode, Ollama, and the rest of your command-line workflow into one fast native workspace — projects, sessions, terminals, files, editor, GitHub, docs, and browser.
+
+It runs the official CLIs in your real login shell, so your prompt, PATH, authentication, and existing subscriptions come with you. The tools remain themselves; ködade gives them one coherent desk.
+
+|  |  |
+|---|---|
+| **Product** | [kodade.com](https://kodade.com) — live now; public downloads coming soon |
+| **Docs** | [kodade.com/docs](https://kodade.com/docs/) — live now |
+| **macOS** | Apple silicon build is close; Apple Developer signing and notarization are in progress |
+| **Windows** | Native Windows version is in active development and pre-release validation |
 
 ## The sheet index
 
