@@ -12,7 +12,7 @@
 
 [![X](https://img.shields.io/badge/@contractorkeith-000?style=flat&logo=x&logoColor=white)](https://x.com/contractorkeith)
 [![Website](https://img.shields.io/badge/contractorkeith.com-2ea44f?style=flat&logo=rss&logoColor=white)](https://contractorkeith.com)
-[![YouTube](https://img.shields.io/badge/YouTube-first_videos_soon-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@contractorkeith)
+[![YouTube](https://img.shields.io/badge/YouTube-videos_soon-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@contractorkeith)
 [![Contractor Takeoff](https://img.shields.io/badge/contractortakeoff.ai-1f6feb?style=flat)](https://contractortakeoff.ai)
 
 **Electrician → plumber → GC → home builder → planning board → commercial fence estimator → `git push`**
