@@ -8,7 +8,7 @@ Over the last 2+ years I went from not knowing what GitHub was to shipping full 
 
 ### Current focus
 
-**[Ködade](https://kodade.com)** — *two döts. one window.*  
+**[Ködade](https://kodade.com)** — *your agents. one workspace.*  
 Desktop Agentic Development Environment (Apache 2.0).  
 Your real login shell, your agents (Claude Code, Codex, Grok, OpenCode, Ollama…), projects, memory, and harness in one fast native window.  
 
