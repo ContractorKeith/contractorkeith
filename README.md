@@ -1,161 +1,53 @@
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   C O N T R A C T O R K E I T H                              │
-│   37 years in construction. Now shipping code.               │
-│                                                              │
-├──────────────────────────────────────────────────────────────┤
-│  PROJECT NO: 1989-∞      SCALE: NTS              REV: DAILY  │
-│  DRAWN BY: KEITH         CHECKED BY: THE FIELD   SHEET: 1/∞  │
-└──────────────────────────────────────────────────────────────┘
-```
+# ContractorKeith
 
-[![X](https://img.shields.io/badge/@contractorkeith-000?style=flat&logo=x&logoColor=white)](https://x.com/contractorkeith)
-[![Website](https://img.shields.io/badge/contractorkeith.com-2ea44f?style=flat&logo=rss&logoColor=white)](https://contractorkeith.com)
-[![YouTube](https://img.shields.io/badge/YouTube-videos_soon-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@contractorkeith)
-[![Contractor Takeoff](https://img.shields.io/badge/contractortakeoff.ai-1f6feb?style=flat)](https://contractortakeoff.ai)
-[![ködade](https://img.shields.io/badge/k%C3%B6dade.com-F2A43B?style=flat)](https://kodade.com)
+**37 years in construction → full-time agentic engineering.**
 
-**Electrician → plumber → GC → home builder → planning board → commercial fence estimator → `git push`**
+I spent decades building things you can stand on; electrician, plumber, GC, home builder, commercial estimator. Half of that work was managing information and coordinating chaos. Software turned out to be the same job with different tools.
 
-I spent 37 years building things you can stand on — hundreds of buildings and developments, , general contractor, plumbing company, fence company, electrician, my own home building company, crews, chaired planning boards, the works. Half of construction is managing information, software isn't much different.
+Over the last 2+ years I went from not knowing what GitHub was to shipping full applications. This is the most focused and passionate I’ve been about something since I got my GC license in 2014. I’m now full-time on agentic tools.
 
-Now I am building the tools I always wished existed on the construction side of the table — plus a growing pile of agent tooling, MCP servers, and terminal apps along the way. **37 years in construction. 0 CS degrees. 31 public repos and counting.**
+### Current focus
 
-## The big build — Contractor Takeoff
+**[Ködade](https://kodade.com)** — *two döts. one window.*  
+Desktop Agentic Development Environment (Apache 2.0).  
+Your real login shell, your agents (Claude Code, Codex, Grok, OpenCode, Ollama…), projects, memory, and harness in one fast native window.  
 
-**[contractortakeoff.ai](https://contractortakeoff.ai)** → *Run every bid from one command center.*
+- [kodade.com](https://kodade.com)  
+- [Docs](https://kodade.com/docs)  
+- GitHub org: [github.com/Kodade](https://github.com/Kodade) (public repo landing there shortly)  
+- Mac available now · Windows this week · Linux planned  
 
-An AI-native bid management suite for specialty subcontractors: bid workspaces, integrated plan markup and measurement, and the workflow glue between them. **Local-first by design** — your plans stay on your machine, because your bid documents are nobody's training data.
+**[Contractor Takeoff](https://contractortakeoff.ai)** — in active development  
+AI-native bid command center for specialty subcontractors. Local-first by design.  
+Being built inside Ködade.  
 
-|  |  |
-|---|---|
-| **Platform** | [contractortakeoff.ai](https://contractortakeoff.ai) — closed pilot now, public launch coming |
-| **Docs** | [docs.contractortakeoff.ai](https://docs.contractortakeoff.ai) |
-| **Open-source engine** | [contractor-bid](https://github.com/ContractorKeith/contractor-bid) — free, MIT-licensed, yours today |
+The free open-source engine is already available:  
+[`contractor-bid`](https://github.com/ContractorKeith/contractor-bid) (MIT)
 
-```bash
-pipx install "contractor-bid[mcp]"                 # or
-brew install ContractorKeith/tap/contractor-bid
-```
+### Selected projects
 
-```
-STATUS REPORT — Q3 2026
-────────────────────────────────────────────────────────────
-contractor takeoff platform    ██████████████░░░░░░   closed pilot → launch
-plan markup + measurement      █████████░░░░░░░░░░░   framing
-contractor-bid (open source)   ████████████████░░░░   v0.2.x — live now
-```
+| Project | What it is |
+|---------|------------|
+| [conmcp](https://github.com/ContractorKeith/conmcp) | MCP server that reads commercial plan sets like an estimator |
+| [contractor-bid](https://github.com/ContractorKeith/contractor-bid) | Open-source AI-ready bid workspaces for commercial subs |
+| [agent-observability-tui](https://github.com/ContractorKeith/agent-observability-tui) | Local TUI for tracing and replaying agent/MCP sessions |
+| [mcp-macos-toolkit](https://github.com/ContractorKeith/mcp-macos-toolkit) | Safety-first macOS MCP tools (files, Shortcuts, Homebrew, etc.) |
+| [project-planner](https://github.com/ContractorKeith/project-planner) + [mvp-builder](https://github.com/ContractorKeith/mvp-builder) | Planning orchestrator and its build-mode counterpart |
+| [claude-architect-course](https://github.com/ContractorKeith/claude-architect-course) | Interactive Claude Certified Architect course that runs inside Claude Code |
 
-This is a decade-scale build with 37 years of estimating behind it. If you're working in construction tech — building, investing, or just obsessed with dragging bid day into this decade — my DMs are open: [@contractorkeith](https://x.com/contractorkeith).
+Full list → [all repositories](https://github.com/ContractorKeith?tab=repositories)
 
-```
- /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\  /\ 
-=||==||==||==||==||==||==||==||==||==||==||==||==||==||==||=
- ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 
-=||==||==||==||==||==||==||==||==||==||==||==||==||==||==||=
-```
-*Division 32 — Exterior Improvements. I estimate these for a living.*
+### How I work
 
-## The other big build — ködade
+I still build like a GC: define the end state, find the path, ship, walk it, iterate.  
+AI is the crew. I stay the one holding the plans.
 
-**[kodade.com](https://kodade.com)** → *Two döts. One window.*
+Currently 99% frontier models for real development work. Local models are a direction I’m deliberately increasing over time for the parts that make sense (repeatable tasks, domain-specific work, privacy-sensitive pieces).
 
-ködade is a desktop Agentic Development Environment for everyone from first-time vibe coders to experienced engineers. It brings Claude Code, Codex, Grok, OpenCode, Ollama, and the rest of your command-line workflow into one fast native workspace — projects, sessions, terminals, files, editor, GitHub, docs, and browser.
+### Connect
 
-It runs the official CLIs in your real login shell, so your prompt, PATH, authentication, and existing subscriptions come with you. The tools remain themselves; ködade gives them one coherent desk.
+- 𝕏 [@contractorkeith](https://x.com/contractorkeith) — daily build log  
+- [contractorkeith.com](https://contractorkeith.com) — writing and project notes  
+- [kodade.com](https://kodade.com) · [contractortakeoff.ai](https://contractortakeoff.ai)
 
-|  |  |
-|---|---|
-| **Product** | [kodade.com](https://kodade.com) — live now; public downloads coming soon |
-| **Docs** | [kodade.com/docs](https://kodade.com/docs/) — live now |
-| **macOS** | Apple silicon build is close; Apple Developer signing and notarization are in progress |
-| **Windows** | Native Windows version is in active development and pre-release validation |
-
-## The sheet index
-
-Things you can clone, run, and contribute to today. Issues and PRs welcome from tradespeople and programmers alike.
-
-| SHEET | PROJECT | SPEC | SCOPE OF WORK |
-|-------|---------|------|---------------|
-| `A-100` | [conmcp](https://github.com/ContractorKeith/conmcp) | Python | **New.** An MCP server that reads commercial plan sets like an estimator — finds the right sheets, renders drawings for vision models, pulls schedules and quantity callouts, and outputs takeoff-ready reports. Any MCP client, cloud or fully local models |
-| `A-101` | [contractor-bid](https://github.com/ContractorKeith/contractor-bid) | Python | The open-source engine under Contractor Takeoff. AI-ready bid workspaces for commercial subs — structure an agent can work in without losing the audit trail |
-| `A-201` | [claude-architect-course](https://github.com/ContractorKeith/claude-architect-course) | Shell | Interactive course for the Claude Certified Architect exam, delivered *inside* Claude Code. Clone it, open it, say `/start` |
-| `S-101` | [mcp-macos-toolkit](https://github.com/ContractorKeith/mcp-macos-toolkit) | TypeScript | Safety-first, local-first macOS MCP tools — files, Shortcuts, Homebrew, Calendar, Reminders, Ollama, MLX |
-| `E-101` | [agent-observability-tui](https://github.com/ContractorKeith/agent-observability-tui) | Python | Local-first TUI for tracing, replaying, and comparing agent & MCP sessions. See what your agents actually did |
-| `M-101` | [project-planner](https://github.com/ContractorKeith/project-planner) + [mvp-builder](https://github.com/ContractorKeith/mvp-builder) | Claude Code | A planning-only orchestrator and its build-mode twin. Plan the work, then work the plan |
-| `P-101` | [local-job-scraper](https://github.com/ContractorKeith/local-job-scraper) | Python | Scrapes local company sites for job openings; GitHub Actions delivers a weekly report. Set-and-forget pipelines |
-| `C-101` | [terminal-construction-tycoon](https://github.com/ContractorKeith/terminal-construction-tycoon) | Python | **Bid Day** — a deterministic terminal tycoon about winning work, making payroll, and running six CSI subcontractor trades |
-| `T-101` | [homebrew-cli-toolbelt](https://github.com/ContractorKeith/homebrew-cli-toolbelt) | Shell | 40+ modern CLI tools for macOS in 3 tiers, with a cheatsheet for every tool |
-
-*A = architectural · S = structural · E = electrical · M = mechanical · P = plumbing · C = civil · T = the toolbelt. Sheet numbers approximate — the architect will issue a revision.*
-
-**Full drawing set →** [all repos](https://github.com/ContractorKeith?tab=repositories)
-
-## Means & methods
-
-I build like I'm still on the jobsite: figure out the end goal, find the path, get it done. AI is my crew — Claude Code, Codex, and local models — but I'm the GC. I bring the plans and the problem; nothing ships without a walkthrough.
-
-**Speaking:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
-**Framing:**
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Crew:**
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-000?style=flat&logo=openai)
-![MCP](https://img.shields.io/badge/MCP-111?style=flat&logo=modelcontextprotocol)
-![Ollama](https://img.shields.io/badge/Ollama-000?style=flat&logo=ollama)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat&logo=homebrew&logoColor=black)
-[![](https://img.shields.io/badge/code%20style-mine-999)](https://github.com/sebmestrallet/absurd-badges)
-[![](https://img.shields.io/badge/coffee%20drunk-YES-6F4E37)](https://github.com/sebmestrallet/absurd-badges)
-
-```
-DAILY MEANS & METHODS
-[x] read the plans           [x] learn by doing
-[x] ship ugly                [x] break sh*t
-[x] iterate                  [x] verify in the field
-[ ] wait for permission
-```
-
-And I'm betting big on local AI: the future is owning your compute, your model, and your data. More of my stack goes local every month.
-
-## Open for work
-
-```
-   ┌───────────────────────────────────┐
-   │                                   │
-   │           OPEN FOR WORK           │
-   │        contract · full-time       │
-   │                                   │
-   │    construction tech · AI tools   │
-   │     agents · apps · estimating    │
-   │                                   │
-   └────────┬────────────────┬─────────┘
-            │                │
-            │                │
-════════════╧════════════════╧═════════════
-```
-
-Open to **contract or full-time** work — construction tech, AI tooling and agents, internal apps, estimating systems, or something we haven't named yet. The combination I bring is rare: 37 years of construction domain depth *and* I ship working software. **DMs open: [@contractorkeith](https://x.com/contractorkeith)**
-
-## Submit an RFI
-
-*(RFI — "Request for Information." Construction for: just ask.)*
-
-- 𝕏 **[@contractorkeith](https://x.com/contractorkeith)** — daily build log, DMs open
-- 🌐 **[contractorkeith.com](https://contractorkeith.com)** — what I build, what breaks, and what I learn fixing it
-- ▶️ **[youtube.com/@contractorkeith](https://youtube.com/@contractorkeith)** — mobilization phase: first videos coming soon
-- 🏗️ **[contractortakeoff.ai](https://contractortakeoff.ai)** — the big build
-
----
-
-*Central Florida. Still in construction — I just pour more code than concrete these days. Still think it's the best industry on earth.*
+Central Florida. Building agentic tools — some for construction, some not.
