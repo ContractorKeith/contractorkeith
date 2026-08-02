@@ -14,7 +14,8 @@ Your real login shell, your agents (Claude Code, Codex, Grok, OpenCode, Ollama�
 
 - [kodade.com](https://kodade.com)  
 - [Docs](https://kodade.com/docs)  
-- GitHub org: [github.com/Kodade](https://github.com/Kodade) (public repo landing there shortly)  
+- GitHub org: [github.com/Kodade](https://github.com/Kodade)
+- Ködade Repo: [github.com/Kodade/kodade](https://github.com/Kodade/kodade) 
 - Mac available now · Windows this week · Linux planned  
 
 **[Contractor Takeoff](https://contractortakeoff.ai)** — in active development  
